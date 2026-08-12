@@ -201,6 +201,17 @@ flowchart LR
 
 I use AI as an application capability within reliable software systems: retrieval-augmented generation, semantic search, vector storage, source attribution, prompt design, and LLM API integration. My applied stack includes LangChain, OpenAI API, Llama 3-compatible endpoints, ChromaDB, Sentence Transformers, and vector databases; my primary focus remains backend engineering.
 
+## Languages I Use
+
+| Language | Applied In |
+| --- | --- |
+| **Python** | Backend services, FastAPI APIs, automation, ETL, data validation, AI integrations |
+| **SQL** | PostgreSQL, SQL Server, schema design, reconciliation, reporting, query optimization |
+| **JavaScript** | Node.js and Express backend services, browser application logic |
+| **TypeScript** | React applications, typed UI components, API clients |
+| **Bash** | Local automation, environment setup, CI/CD and deployment workflows |
+| **HTML & CSS** | Responsive interfaces, accessibility, component styling |
+
 ## GitHub Analytics
 
 <div align="center">
@@ -214,7 +225,7 @@ I use AI as an application capability within reliable software systems: retrieva
 
 </div>
 
-<sub>Repository language distribution reflects public repository code, not proficiency.</sub>
+<sub>The generated language cards reflect committed public repository files, not the complete technology stack or proficiency. The table above reflects languages used across professional work and projects.</sub>
 
 ## Coding and Problem Solving
 
