@@ -6,8 +6,8 @@
 
 [![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:navyachowdary.thellapati@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navya-thellapati/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://navya-portfolio-sable.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/navya_codes/)
+[![Resume](https://img.shields.io/badge/Resume-111827?style=flat-square&logo=readme&logoColor=white)](https://navya-portfolio-sable.vercel.app/Navya-Thellapati-Resume.pdf)
 
 </div>
 
@@ -102,6 +102,54 @@ currently_exploring:
 
 ## Selected Projects
 
+### [Banking Transaction Processing & Reconciliation System](https://github.com/NavyaThellapati/Banking-Transaction-Processing-Reconciliation-System)
+
+A production-style financial backend centered on transaction integrity, concurrency safety, and auditable reconciliation.
+
+**Engineering highlights**
+
+- Double-entry ledger supporting account creation, deposits, withdrawals, transfers, and transaction history.
+- ACID-compliant operations with validation, row-level locking, and deterministic lock ordering.
+- Immutable ledger entries designed for traceability and balance consistency.
+- Reconciliation checks for missing, duplicate, and mismatched transactions with exception reporting.
+
+```mermaid
+flowchart LR
+  Consumer[API Consumer] --> API[FastAPI REST API]
+  API --> Service[Transaction Service]
+  Service --> ORM[SQLAlchemy]
+  ORM --> DB[(PostgreSQL)]
+  DB --> Recon[Reconciliation Engine]
+```
+
+**Decisions:** row-level locks protect concurrent balance updates; deterministic lock ordering reduces deadlock risk; immutable ledger entries preserve the audit trail.
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Docker`
+
+### [Enterprise Workflow Automation & Job Processing System](https://github.com/NavyaThellapati/Enterprise-Workflow-Automation-Job-Processing-System)
+
+A distributed backend platform for submitting, scheduling, executing, monitoring, and recovering asynchronous business workflows.
+
+**Engineering highlights**
+
+- FastAPI endpoints for job submission, workflow status, execution history, and queue monitoring.
+- Celery workers and Redis queues for asynchronous and scheduled execution.
+- Priority queues, task dependencies, retry policies, and failed-job recovery.
+- JWT authentication, PostgreSQL persistence, Docker packaging, and GitHub Actions CI/CD.
+
+```mermaid
+flowchart LR
+  Consumer[API Consumer] --> API[FastAPI]
+  API --> Queue[(Redis Queue)]
+  Queue --> Workers[Celery Workers]
+  Workers --> DB[(PostgreSQL)]
+  Workers --> Recovery[Retry / Failure Recovery]
+```
+
+**Decisions:** background workers isolate long-running work from request handling; Redis provides low-latency queue coordination; explicit retries and failure records make recovery observable.
+
+`FastAPI` `Celery` `Redis` `PostgreSQL` `Docker` `GitHub Actions`
+
 ### [DocuMind - AI Document Q&A Assistant](https://github.com/NavyaThellapati/documind-ai-document-qa-assistant)
 
 A full-stack document intelligence platform that processes PDF, TXT, and DOCX files and returns document-grounded answers with verifiable source citations.
@@ -149,12 +197,6 @@ flowchart LR
 
 `React` `TypeScript` `Node.js` `Express` `PostgreSQL` `JWT` `GitHub Actions`
 
-### [Developer Portfolio](https://github.com/NavyaThellapati/navya_portfolio) · [Live Site](https://navya-portfolio-sable.vercel.app)
-
-A responsive engineering portfolio with typed React components, technical case studies, accessible motion, and code-native architecture visuals.
-
-`React` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion` `Vercel`
-
 ## AI-Integrated Engineering
 
 I use AI as an application capability within reliable software systems: retrieval-augmented generation, semantic search, vector storage, source attribution, prompt design, and LLM API integration. My applied stack includes LangChain, OpenAI API, Llama 3-compatible endpoints, ChromaDB, Sentence Transformers, and vector databases; my primary focus remains backend engineering.
@@ -166,6 +208,9 @@ I use AI as an application capability within reliable software systems: retrieva
 [![GitHub contribution summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati)
 
 [![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati?tab=repositories)
+[![Most-used commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati?tab=repositories)
+
+[![GitHub repository statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati)
 
 </div>
 
@@ -192,4 +237,3 @@ I am interested in software engineering and backend engineering opportunities in
 - [GitHub](https://github.com/NavyaThellapati)
 - [LeetCode](https://leetcode.com/u/navya_codes/)
 - [Resume](https://navya-portfolio-sable.vercel.app/Navya-Thellapati-Resume.pdf)
-
