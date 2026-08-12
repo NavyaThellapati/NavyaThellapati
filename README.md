@@ -227,12 +227,6 @@ I use AI as an application capability within reliable software systems: retrieva
 
 <sub>The generated language cards reflect committed public repository files, not the complete technology stack or proficiency. The table above reflects languages used across professional work and projects.</sub>
 
-## Coding and Problem Solving
-
-[LeetCode - navya_codes](https://leetcode.com/u/navya_codes/)
-
-LeetCode statistics are intentionally not embedded because no external widget was verified as reliable for this profile.
-
 ## Education
 
 ### University of South Florida
