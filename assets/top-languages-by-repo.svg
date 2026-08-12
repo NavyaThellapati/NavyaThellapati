@@ -1,50 +1,41 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" role="img" aria-labelledby="title desc">
   <title id="title">Top Languages by Repo</title>
-  <desc id="desc">Public repository source-code distribution: TypeScript 55.4%, Python 33.6%, JavaScript 6.0%, CSS 4.7%, HTML 0.2%, and Bash or Shell 0.1%.</desc>
+  <desc id="desc">A solid pie chart based on source-language bytes in public repositories, with a legend for Python, SQL, TypeScript, JavaScript, Bash, HTML, and CSS. SQL is listed but has no visible slice because GitHub Linguist detects no SQL source.</desc>
   <style>
     .title { font: 600 20px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #58a6ff; }
-    .language { font: 500 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #c9d1d9; }
-    .percent { font: 600 12px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; text-anchor: end; }
-    .center-main { font: 600 15px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #c9d1d9; text-anchor: middle; }
-    .center-sub { font: 500 10px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #8b949e; text-anchor: middle; }
+    .language { font: 500 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #c9d1d9; }
   </style>
 
   <rect x="0.5" y="0.5" width="339" height="199" rx="6" fill="#0d1117" stroke="#30363d"/>
-  <text x="22" y="34" class="title">Top Languages by Repo</text>
+  <text x="22" y="32" class="title">Top Languages by Repo</text>
 
-  <circle cx="25" cy="62" r="4.5" fill="#3178c6"/>
-  <text x="37" y="66" class="language">TypeScript</text>
-  <text x="151" y="66" class="percent">55.4%</text>
+  <circle cx="25" cy="56" r="4.5" fill="#3572A5"/>
+  <text x="37" y="60" class="language">Python</text>
 
-  <circle cx="25" cy="84" r="4.5" fill="#3572A5"/>
-  <text x="37" y="88" class="language">Python</text>
-  <text x="151" y="88" class="percent">33.6%</text>
+  <circle cx="25" cy="76" r="4.5" fill="#e38c00"/>
+  <text x="37" y="80" class="language">SQL</text>
 
-  <circle cx="25" cy="106" r="4.5" fill="#f1e05a"/>
-  <text x="37" y="110" class="language">JavaScript</text>
-  <text x="151" y="110" class="percent">6.0%</text>
+  <circle cx="25" cy="96" r="4.5" fill="#3178c6"/>
+  <text x="37" y="100" class="language">TypeScript</text>
 
-  <circle cx="25" cy="128" r="4.5" fill="#563d7c"/>
-  <text x="37" y="132" class="language">CSS</text>
-  <text x="151" y="132" class="percent">4.7%</text>
+  <circle cx="25" cy="116" r="4.5" fill="#f1e05a"/>
+  <text x="37" y="120" class="language">JavaScript</text>
 
-  <circle cx="25" cy="150" r="4.5" fill="#e34c26"/>
-  <text x="37" y="154" class="language">HTML</text>
-  <text x="151" y="154" class="percent">0.2%</text>
+  <circle cx="25" cy="136" r="4.5" fill="#89e051"/>
+  <text x="37" y="140" class="language">Bash</text>
 
-  <circle cx="25" cy="172" r="4.5" fill="#89e051"/>
-  <text x="37" y="176" class="language">Bash / Shell</text>
-  <text x="151" y="176" class="percent">0.1%</text>
+  <circle cx="25" cy="156" r="4.5" fill="#e34c26"/>
+  <text x="37" y="160" class="language">HTML</text>
 
-  <g transform="rotate(-90 255 112)">
-    <circle cx="255" cy="112" r="54" pathLength="100" fill="none" stroke="#21262d" stroke-width="20"/>
-    <circle cx="255" cy="112" r="54" pathLength="100" fill="none" stroke="#3178c6" stroke-width="20" stroke-dasharray="55.41818102 44.58181898" stroke-dashoffset="0"/>
-    <circle cx="255" cy="112" r="54" pathLength="100" fill="none" stroke="#3572A5" stroke-width="20" stroke-dasharray="33.63751460 66.36248540" stroke-dashoffset="-55.41818102"/>
-    <circle cx="255" cy="112" r="54" pathLength="100" fill="none" stroke="#f1e05a" stroke-width="20" stroke-dasharray="5.98506925 94.01493075" stroke-dashoffset="-89.05569562"/>
-    <circle cx="255" cy="112" r="54" pathLength="100" fill="none" stroke="#563d7c" stroke-width="20" stroke-dasharray="4.68015673 95.31984327" stroke-dashoffset="-95.04076487"/>
-    <circle cx="255" cy="112" r="54" pathLength="100" fill="none" stroke="#e34c26" stroke-width="20" stroke-dasharray="0.17113607 99.82886393" stroke-dashoffset="-99.72092160"/>
-    <circle cx="255" cy="112" r="54" pathLength="100" fill="none" stroke="#89e051" stroke-width="20" stroke-dasharray="0.10794233 99.89205767" stroke-dashoffset="-99.89205767"/>
+  <circle cx="25" cy="176" r="4.5" fill="#563d7c"/>
+  <text x="37" y="180" class="language">CSS</text>
+
+  <g>
+    <path d="M 258 112 L 258.0000 54.0000 A 58 58 0 1 1 238.6340 166.6714 Z" fill="#3178c6"/>
+    <path d="M 258 112 L 238.6340 166.6714 A 58 58 0 0 1 221.1860 67.1811 Z" fill="#3572A5"/>
+    <path d="M 258 112 L 221.1860 67.1811 A 58 58 0 0 1 240.2184 56.7930 Z" fill="#f1e05a"/>
+    <path d="M 258 112 L 240.2184 56.7930 A 58 58 0 0 1 256.9830 54.0089 Z" fill="#563d7c"/>
+    <path d="M 258 112 L 256.9830 54.0089 A 58 58 0 0 1 257.6066 54.0013 Z" fill="#e34c26"/>
+    <path d="M 258 112 L 257.6066 54.0013 A 58 58 0 0 1 258.0000 54.0000 Z" fill="#89e051"/>
   </g>
-  <text x="255" y="110" class="center-main">916 KB</text>
-  <text x="255" y="126" class="center-sub">public source</text>
 </svg>
