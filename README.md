@@ -1,1 +1,195 @@
-<div align="center"># Navya Thellapati### Software Engineer | Backend Engineer | Python | FastAPI | Distributed Systems | PostgreSQL | Cloud & CI/CD[![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:navyachowdary.thellapati@gmail.com)[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navya-thellapati/)[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://navya-portfolio-sable.vercel.app)[![LeetCode](https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/navya_codes/)</div>## Building reliable backend systems, financial platforms, distributed workflows, and data-driven applicationsSoftware Engineer with 4+ years of experience designing Python backend applications, REST APIs, microservice-style components, and data-intensive enterprise systems. My work spans banking workflows, relational database design, SQL optimization, ETL pipelines, workflow automation, Docker, and CI/CD-driven delivery.<div align="center">| **10+**<br><sub>Truist backend services and APIs</sub> | **5K+**<br><sub>daily banking records supported</sub> | **40%**<br><sub>deployment-time reduction</sub> | **30%**<br><sub>SQL runtime reduction</sub> ||:---:|:---:|:---:|:---:|</div>## About Me```yamlrole: Software Engineer / Backend Engineerexperience: 4+ yearscore_stack:  - Python  - FastAPI  - PostgreSQL  - SQL  - Docker  - REST APIsengineering_focus:  - Backend systems and microservices  - Financial applications  - Distributed processing  - Database design and optimization  - Workflow automation  - CI/CDcurrently_exploring:  - RAG and LangChain  - LLM-integrated applications  - Vector databases  - Responsible AI```## Current Focus- Building production-style Python services with FastAPI, explicit validation, authentication, and documented APIs.- Designing transaction-processing workflows around data integrity, auditability, and failure recovery.
+<div align="center">
+
+# Navya Thellapati
+
+### Software Engineer | Backend Engineer | Python | FastAPI | Distributed Systems | PostgreSQL | Cloud & CI/CD
+
+[![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:navyachowdary.thellapati@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navya-thellapati/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://navya-portfolio-sable.vercel.app)
+[![LeetCode](https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/navya_codes/)
+
+</div>
+
+## Building reliable backend systems, financial platforms, distributed workflows, and data-driven applications
+
+Software Engineer with 4+ years of experience designing Python backend applications, REST APIs, microservice-style components, and data-intensive enterprise systems. My work spans banking workflows, relational database design, SQL optimization, ETL pipelines, workflow automation, Docker, and CI/CD-driven delivery.
+
+<div align="center">
+
+| **10+**<br><sub>Truist backend services and APIs</sub> | **5K+**<br><sub>daily banking records supported</sub> | **40%**<br><sub>deployment-time reduction</sub> | **30%**<br><sub>SQL runtime reduction</sub> |
+|:---:|:---:|:---:|:---:|
+
+</div>
+
+## About Me
+
+```yaml
+role: Software Engineer / Backend Engineer
+experience: 4+ years
+core_stack:
+  - Python
+  - FastAPI
+  - PostgreSQL
+  - SQL
+  - Docker
+  - REST APIs
+engineering_focus:
+  - Backend systems and microservices
+  - Financial applications
+  - Distributed processing
+  - Database design and optimization
+  - Workflow automation
+  - CI/CD
+currently_exploring:
+  - RAG and LangChain
+  - LLM-integrated applications
+  - Vector databases
+  - Responsible AI
+```
+
+## Current Focus
+
+- Building production-style Python services with FastAPI, explicit validation, authentication, and documented APIs.
+- Designing transaction-processing workflows around data integrity, auditability, and failure recovery.
+- Developing distributed background-processing patterns with queues, retries, scheduling, and execution tracking.
+- Improving relational database performance, reconciliation accuracy, and data consistency.
+- Adding retrieval-augmented AI capabilities without losing backend reliability or source traceability.
+
+## Experience Highlights
+
+### Truist - Software Engineer III
+
+<sub>May 2025 - June 2026</sub>
+
+- Designed and maintained 10+ Python backend services and REST APIs supporting account and transaction workflows for 5K+ daily records.
+- Architected modular, microservice-style components with separated API, business, and data-access layers, reducing feature-development time by 20%.
+- Modeled relational schemas and optimized complex SQL for validation, reconciliation, and reporting, reducing query runtime by 30%.
+- Built CI/CD pipelines for packaging, testing, and deployment, reducing deployment time by 40% and improving release consistency.
+
+### Accenture Solutions - Software Engineer
+
+<sub>June 2021 - July 2024</sub>
+
+- Developed Python and SQL automation for account provisioning, workflow orchestration, and data validation, eliminating 300+ recurring checks and improving efficiency by 28%.
+- Built and integrated 20+ backend services using Python, REST APIs, and JSON/XML integrations, supporting 6K+ daily records.
+- Maintained Python/SQL ETL pipelines for downstream reporting, reducing recurring load errors by 22%.
+- Packaged and deployed backend applications with Jenkins, Git, and Azure DevOps across 12+ releases.
+
+## Tech Stack
+
+### Languages
+
+[![Python, TypeScript, JavaScript and Bash](https://skillicons.dev/icons?i=python,ts,js,bash&theme=dark)](https://skillicons.dev)
+
+`Python` `JavaScript` `TypeScript` `SQL` `Bash`
+
+### Backend and Data
+
+[![FastAPI, Flask, Node.js, PostgreSQL and SQLite](https://skillicons.dev/icons?i=fastapi,flask,nodejs,postgres,sqlite&theme=dark)](https://skillicons.dev)
+
+`FastAPI` `Flask` `REST APIs` `Microservices` `SQLAlchemy` `OpenAPI` `JWT` `PostgreSQL` `SQL Server` `SQL Optimization`
+
+### Cloud, Delivery and Tooling
+
+[![Docker, GitHub Actions, Git and Linux](https://skillicons.dev/icons?i=docker,githubactions,git,linux&theme=dark)](https://skillicons.dev)
+
+`Docker` `Jenkins` `GitHub Actions` `Azure DevOps` `Linux` `Git` `CI/CD`
+
+### Frontend, Testing and AI
+
+`React` `HTML5` `CSS3` · `Unit Testing` `API Testing` `Postman` `Regression Testing` · `Pandas` `NumPy` `TensorFlow` `scikit-learn`
+
+## Selected Projects
+
+### [DocuMind - AI Document Q&A Assistant](https://github.com/NavyaThellapati/documind-ai-document-qa-assistant)
+
+A full-stack document intelligence platform that processes PDF, TXT, and DOCX files and returns document-grounded answers with verifiable source citations.
+
+**Engineering highlights**
+
+- User- and document-scoped retrieval with Sentence Transformers and ChromaDB.
+- JWT access and refresh flows, rate limiting, ownership checks, and Alembic migrations.
+- Background document processing, semantic search, streaming chat, feedback, and retrieval evaluation.
+- Backend and frontend tests, Docker Compose, GitHub Actions, and deployment configuration.
+
+```mermaid
+flowchart LR
+  Client[React Client] --> API[FastAPI REST API]
+  API --> DB[(PostgreSQL)]
+  API --> Pipeline[Extract / Chunk / Embed]
+  Pipeline --> Vector[(ChromaDB)]
+  API --> Retrieval[Scoped Retrieval]
+  Retrieval --> LLM[LLM Provider]
+```
+
+**Decisions:** source citations make answers auditable; ownership filters isolate user data; a local extractive fallback keeps development and tests independent of an external LLM.
+
+`Python` `FastAPI` `React` `TypeScript` `PostgreSQL` `ChromaDB` `Docker` `GitHub Actions`
+
+### [MyChart Patient Portal](https://github.com/NavyaThellapati/mychart---homepage)
+
+A full-stack patient portal for authenticated appointment workflows, medications, results, billing, messaging, and guided navigation.
+
+**Engineering highlights**
+
+- JWT authentication, optional email MFA, password recovery, role-aware authorization, and audit logging.
+- User-level data isolation, parameterized SQL, input validation, rate limits, and scheduling-conflict detection.
+- PostgreSQL-backed API integration tests and deployment configuration for Vercel and Render.
+
+```mermaid
+flowchart LR
+  Client[React / TypeScript] --> API[Express REST API]
+  API --> Auth[JWT / MFA / RBAC]
+  API --> DB[(PostgreSQL)]
+  API --> Mail[SMTP]
+```
+
+**Decisions:** ownership checks are enforced server-side; appointment conflicts are validated before persistence; audit records preserve security-relevant activity.
+
+`React` `TypeScript` `Node.js` `Express` `PostgreSQL` `JWT` `GitHub Actions`
+
+### [Developer Portfolio](https://github.com/NavyaThellapati/navya_portfolio) · [Live Site](https://navya-portfolio-sable.vercel.app)
+
+A responsive engineering portfolio with typed React components, technical case studies, accessible motion, and code-native architecture visuals.
+
+`React` `TypeScript` `Vite` `Tailwind CSS` `Framer Motion` `Vercel`
+
+## AI-Integrated Engineering
+
+I use AI as an application capability within reliable software systems: retrieval-augmented generation, semantic search, vector storage, source attribution, prompt design, and LLM API integration. My applied stack includes LangChain, OpenAI API, Llama 3-compatible endpoints, ChromaDB, Sentence Transformers, and vector databases; my primary focus remains backend engineering.
+
+## GitHub Analytics
+
+<div align="center">
+
+[![GitHub contribution summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati)
+
+[![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati?tab=repositories)
+
+</div>
+
+<sub>Repository language distribution reflects public repository code, not proficiency.</sub>
+
+## Coding and Problem Solving
+
+[LeetCode - navya_codes](https://leetcode.com/u/navya_codes/)
+
+LeetCode statistics are intentionally not embedded because no external widget was verified as reliable for this profile.
+
+## Education
+
+### University of South Florida
+
+**Master of Science in Computer Science** · Tampa, Florida · August 2024 - May 2026
+
+## Let's Connect
+
+I am interested in software engineering and backend engineering opportunities involving scalable APIs, distributed systems, financial technology, cloud infrastructure, and data-intensive applications.
+
+- [LinkedIn](https://www.linkedin.com/in/navya-thellapati/)
+- [Email](mailto:navyachowdary.thellapati@gmail.com)
+- [GitHub](https://github.com/NavyaThellapati)
+- [LeetCode](https://leetcode.com/u/navya_codes/)
+- [Resume](https://navya-portfolio-sable.vercel.app/Navya-Thellapati-Resume.pdf)
+
