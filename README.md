@@ -219,7 +219,7 @@ I use AI as an application capability within reliable software systems: retrieva
 [![GitHub contribution summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati)
 
 <p align="center">
-  <img src="./assets/top-languages.svg" width="340" alt="Top Languages by Repo" />
+  <img src="./assets/top-languages-by-repo.svg" width="340" alt="Top Languages by Repo" />
   <a href="https://github.com/NavyaThellapati?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavyaThellapati&theme=github_dark" width="340" alt="Top Languages by Commit" /></a>
 </p>
 
@@ -227,7 +227,7 @@ I use AI as an application capability within reliable software systems: retrieva
 
 </div>
 
-<sub>Languages shown reflect professional and project experience; GitHub repository statistics may differ based on public committed code.</sub>
+<sub>Language percentages are calculated from source code in public repositories and do not represent overall proficiency or professional experience.</sub>
 
 ## Education
 
