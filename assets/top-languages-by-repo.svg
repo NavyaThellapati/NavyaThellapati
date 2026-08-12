@@ -1,41 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="260" viewBox="0 0 680 260" role="img" aria-labelledby="title desc">
   <title id="title">Top Languages by Repo</title>
   <desc id="desc">A solid pie chart based on source-language bytes in public repositories, with a legend for Python, SQL, TypeScript, JavaScript, Bash, HTML, and CSS. SQL is listed but has no visible slice because GitHub Linguist detects no SQL source.</desc>
   <style>
-    .title { font: 600 20px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #58a6ff; }
-    .language { font: 500 13px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #c9d1d9; }
+    .title { font: 600 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #58a6ff; }
+    .language { font: 500 16px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #c9d1d9; }
   </style>
 
-  <rect x="0.5" y="0.5" width="339" height="199" rx="6" fill="#0d1117" stroke="#30363d"/>
-  <text x="22" y="32" class="title">Top Languages by Repo</text>
+  <rect x="0.5" y="0.5" width="679" height="259" rx="8" fill="#0d1117" stroke="#30363d"/>
+  <text x="32" y="42" class="title">Top Languages by Repo</text>
 
-  <circle cx="25" cy="56" r="4.5" fill="#3572A5"/>
-  <text x="37" y="60" class="language">Python</text>
-
-  <circle cx="25" cy="76" r="4.5" fill="#e38c00"/>
-  <text x="37" y="80" class="language">SQL</text>
-
-  <circle cx="25" cy="96" r="4.5" fill="#3178c6"/>
-  <text x="37" y="100" class="language">TypeScript</text>
-
-  <circle cx="25" cy="116" r="4.5" fill="#f1e05a"/>
-  <text x="37" y="120" class="language">JavaScript</text>
-
-  <circle cx="25" cy="136" r="4.5" fill="#89e051"/>
-  <text x="37" y="140" class="language">Bash</text>
-
-  <circle cx="25" cy="156" r="4.5" fill="#e34c26"/>
-  <text x="37" y="160" class="language">HTML</text>
-
-  <circle cx="25" cy="176" r="4.5" fill="#563d7c"/>
-  <text x="37" y="180" class="language">CSS</text>
+  <circle cx="40" cy="72" r="5.5" fill="#3776AB"/>
+  <text x="56" y="77" class="language">Python</text>
+  <circle cx="40" cy="99" r="5.5" fill="#F29111"/>
+  <text x="56" y="104" class="language">SQL</text>
+  <circle cx="40" cy="126" r="5.5" fill="#3178C6"/>
+  <text x="56" y="131" class="language">TypeScript</text>
+  <circle cx="40" cy="153" r="5.5" fill="#F7DF1E"/>
+  <text x="56" y="158" class="language">JavaScript</text>
+  <circle cx="40" cy="180" r="5.5" fill="#89E051"/>
+  <text x="56" y="185" class="language">Bash</text>
+  <circle cx="40" cy="207" r="5.5" fill="#E34F26"/>
+  <text x="56" y="212" class="language">HTML</text>
+  <circle cx="40" cy="234" r="5.5" fill="#A855F7"/>
+  <text x="56" y="239" class="language">CSS</text>
 
   <g>
-    <path d="M 258 112 L 258.0000 54.0000 A 58 58 0 1 1 238.6340 166.6714 Z" fill="#3178c6"/>
-    <path d="M 258 112 L 238.6340 166.6714 A 58 58 0 0 1 221.1860 67.1811 Z" fill="#3572A5"/>
-    <path d="M 258 112 L 221.1860 67.1811 A 58 58 0 0 1 240.2184 56.7930 Z" fill="#f1e05a"/>
-    <path d="M 258 112 L 240.2184 56.7930 A 58 58 0 0 1 256.9830 54.0089 Z" fill="#563d7c"/>
-    <path d="M 258 112 L 256.9830 54.0089 A 58 58 0 0 1 257.6066 54.0013 Z" fill="#e34c26"/>
-    <path d="M 258 112 L 257.6066 54.0013 A 58 58 0 0 1 258.0000 54.0000 Z" fill="#89e051"/>
+    <path d="M 515 140 L 515.0000 45.0000 A 95 95 0 0 1 596.3496 189.0636 Z" fill="#3776AB" stroke="#0d1117" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M 515 140 L 596.3496 189.0636 A 95 95 0 0 1 572.6463 215.5110 Z" fill="#F7DF1E" stroke="#0d1117" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M 515 140 L 572.6463 215.5110 A 95 95 0 0 1 571.8310 216.1264 Z" fill="#E34F26" stroke="#0d1117" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M 515 140 L 571.8310 216.1264 A 95 95 0 1 1 486.8489 49.2668 Z" fill="#3178C6" stroke="#0d1117" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M 515 140 L 486.8489 49.2668 A 95 95 0 0 1 487.4649 49.0780 Z" fill="#89E051" stroke="#0d1117" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M 515 140 L 487.4649 49.0780 A 95 95 0 0 1 515.0000 45.0000 Z" fill="#A855F7" stroke="#0d1117" stroke-width="1.5" stroke-linejoin="round"/>
   </g>
 </svg>
