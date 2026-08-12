@@ -220,7 +220,6 @@ I use AI as an application capability within reliable software systems: retrieva
 
 <p align="center">
   <img src="./assets/top-languages-by-repo.svg" width="340" alt="Top Languages by Repo" />
-  <a href="https://github.com/NavyaThellapati?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavyaThellapati&theme=github_dark" width="340" alt="Top Languages by Commit" /></a>
 </p>
 
 [![GitHub repository statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati)
