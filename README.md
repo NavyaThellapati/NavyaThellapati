@@ -7,7 +7,6 @@
 [![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:navyachowdary.thellapati@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/navya-thellapati/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-111827?style=flat-square&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/navya_codes/)
-[![Resume](https://img.shields.io/badge/Resume-111827?style=flat-square&logo=readme&logoColor=white)](https://navya-portfolio-sable.vercel.app/Navya-Thellapati-Resume.pdf)
 
 </div>
 
@@ -234,4 +233,3 @@ I am interested in software engineering and backend engineering opportunities in
 - [Email](mailto:navyachowdary.thellapati@gmail.com)
 - [GitHub](https://github.com/NavyaThellapati)
 - [LeetCode](https://leetcode.com/u/navya_codes/)
-- [Resume](https://navya-portfolio-sable.vercel.app/Navya-Thellapati-Resume.pdf)
