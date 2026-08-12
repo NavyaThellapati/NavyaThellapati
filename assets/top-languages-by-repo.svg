@@ -9,13 +9,13 @@
   <rect x="0.5" y="0.5" width="679" height="259" rx="8" fill="#0d1117" stroke="#30363d"/>
   <text x="32" y="42" class="title">Languages I Use</text>
 
-  <circle cx="40" cy="72" r="5.5" fill="#3B82F6"/>
+  <circle cx="40" cy="72" r="5.5" fill="#38BDF8"/>
   <text x="56" y="77" class="language">Python</text>
   <circle cx="40" cy="99" r="5.5" fill="#F59E0B"/>
   <text x="56" y="104" class="language">SQL</text>
   <circle cx="40" cy="126" r="5.5" fill="#8B5CF6"/>
   <text x="56" y="131" class="language">TypeScript</text>
-  <circle cx="40" cy="153" r="5.5" fill="#FACC15"/>
+  <circle cx="40" cy="153" r="5.5" fill="#FDE047"/>
   <text x="56" y="158" class="language">JavaScript</text>
   <circle cx="40" cy="180" r="5.5" fill="#22C55E"/>
   <text x="56" y="185" class="language">Bash</text>
@@ -25,12 +25,12 @@
   <text x="56" y="239" class="language">CSS</text>
 
   <g>
-    <path d="M 515 140 L 515.0000 45.0000 A 95 95 0 0 1 609.8125 134.0349 Z" fill="#3B82F6" stroke="#0D1117" stroke-width="2.5" stroke-linejoin="round"/>
-    <path d="M 515 140 L 609.8125 134.0349 A 95 95 0 0 1 580.0320 209.2520 Z" fill="#FACC15" stroke="#0D1117" stroke-width="2.5" stroke-linejoin="round"/>
-    <path d="M 515 140 L 580.0320 209.2520 A 95 95 0 0 1 480.0282 228.3288 Z" fill="#8B5CF6" stroke="#0D1117" stroke-width="2.5" stroke-linejoin="round"/>
-    <path d="M 515 140 L 480.0282 228.3288 A 95 95 0 0 1 434.7888 190.9035 Z" fill="#22C55E" stroke="#0D1117" stroke-width="2.5" stroke-linejoin="round"/>
-    <path d="M 515 140 L 434.7888 190.9035 A 95 95 0 0 1 420.0000 140.0000 Z" fill="#F97316" stroke="#0D1117" stroke-width="2.5" stroke-linejoin="round"/>
-    <path d="M 515 140 L 420.0000 140.0000 A 95 95 0 0 1 434.7888 89.0965 Z" fill="#EC4899" stroke="#0D1117" stroke-width="2.5" stroke-linejoin="round"/>
-    <path d="M 515 140 L 434.7888 89.0965 A 95 95 0 0 1 515.0000 45.0000 Z" fill="#F59E0B" stroke="#0D1117" stroke-width="2.5" stroke-linejoin="round"/>
+    <path d="M 515 140 L 515.0000 45.0000 A 95 95 0 0 1 608.3173 122.1988 Z" fill="#38BDF8" stroke="#0D1117" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M 515 140 L 608.3173 122.1988 A 95 95 0 0 1 588.1988 200.5553 Z" fill="#F59E0B" stroke="#0D1117" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M 515 140 L 588.1988 200.5553 A 95 95 0 0 1 491.3745 232.0154 Z" fill="#8B5CF6" stroke="#0D1117" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M 515 140 L 491.3745 232.0154 A 95 95 0 0 1 431.7509 185.7666 Z" fill="#FDE047" stroke="#0D1117" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M 515 140 L 431.7509 185.7666 A 95 95 0 0 1 422.9846 116.3745 Z" fill="#22C55E" stroke="#0D1117" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M 515 140 L 422.9846 116.3745 A 95 95 0 0 1 459.1604 63.1434 Z" fill="#F97316" stroke="#0D1117" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M 515 140 L 459.1604 63.1434 A 95 95 0 0 1 515.0000 45.0000 Z" fill="#EC4899" stroke="#0D1117" stroke-width="3" stroke-linejoin="round"/>
   </g>
 </svg>
