@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="340" height="200" viewBox="0 0 340 200" role="img" aria-labelledby="title desc">
+  <title id="title">Top Languages by Repo</title>
+  <desc id="desc">Languages used across professional work and projects: Python, SQL, TypeScript, JavaScript, Bash, HTML, and CSS. No percentages are claimed.</desc>
+  <style>
+    .title { font: 600 20px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #58a6ff; }
+    .language { font: 500 14px -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; fill: #c9d1d9; }
+  </style>
+  <rect x="0.5" y="0.5" width="339" height="199" rx="6" fill="#0d1117" stroke="#30363d"/>
+  <text x="24" y="36" class="title">Top Languages by Repo</text>
+
+  <circle cx="28" cy="72" r="5" fill="#3572A5"/>
+  <text x="42" y="77" class="language">Python</text>
+  <circle cx="184" cy="72" r="5" fill="#f1e05a"/>
+  <text x="198" y="77" class="language">JavaScript</text>
+
+  <circle cx="28" cy="106" r="5" fill="#e38c00"/>
+  <text x="42" y="111" class="language">SQL</text>
+  <circle cx="184" cy="106" r="5" fill="#89e051"/>
+  <text x="198" y="111" class="language">Bash</text>
+
+  <circle cx="28" cy="140" r="5" fill="#3178c6"/>
+  <text x="42" y="145" class="language">TypeScript</text>
+  <circle cx="184" cy="140" r="5" fill="#e34c26"/>
+  <text x="198" y="145" class="language">HTML</text>
+
+  <circle cx="184" cy="174" r="5" fill="#563d7c"/>
+  <text x="198" y="179" class="language">CSS</text>
+</svg>
