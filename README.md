@@ -218,7 +218,7 @@ I use AI as an application capability within reliable software systems: retrieva
 
 [![GitHub contribution summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati)
 
-[![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati?tab=repositories)
+[![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NavyaThellapati&theme=github_dark&exclude=Dockerfile)](https://github.com/NavyaThellapati?tab=repositories)
 [![Most-used commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati?tab=repositories)
 
 [![GitHub repository statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati)
