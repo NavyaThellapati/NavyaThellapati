@@ -220,12 +220,6 @@ I use AI as an application capability within reliable software systems: retrieva
 
 </div>
 
-<p align="center">
-  <img src="./assets/top-languages-by-repo.svg?v=20260812-2" width="680" alt="Languages I Use" />
-</p>
-
-<sub>Programming languages used across my professional engineering experience and projects.</sub>
-
 ## Education
 
 ### University of South Florida
