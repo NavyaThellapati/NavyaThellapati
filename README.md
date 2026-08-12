@@ -218,14 +218,16 @@ I use AI as an application capability within reliable software systems: retrieva
 
 [![GitHub contribution summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati)
 
-[![Repositories by language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NavyaThellapati&theme=github_dark&exclude=Dockerfile)](https://github.com/NavyaThellapati?tab=repositories)
-[![Most-used commit languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati?tab=repositories)
+<p align="center">
+  <img src="./assets/top-languages.svg" width="340" alt="Top Languages by Repo" />
+  <a href="https://github.com/NavyaThellapati?tab=repositories"><img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NavyaThellapati&theme=github_dark" width="340" alt="Top Languages by Commit" /></a>
+</p>
 
 [![GitHub repository statistics](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NavyaThellapati&theme=github_dark)](https://github.com/NavyaThellapati)
 
 </div>
 
-<sub>The generated language cards reflect committed public repository files, not the complete technology stack or proficiency. The table above reflects languages used across professional work and projects.</sub>
+<sub>Languages shown reflect professional and project experience; GitHub repository statistics may differ based on public committed code.</sub>
 
 ## Education
 
